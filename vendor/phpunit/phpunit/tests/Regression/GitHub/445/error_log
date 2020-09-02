@@ -1,0 +1,1 @@
+[04-Nov-2019 17:31:15 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/phpunit/phpunit/tests/Regression/GitHub/445/Issue445Test.php on line 2

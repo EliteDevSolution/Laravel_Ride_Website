@@ -1,0 +1,6 @@
+/.project
+/.env
+/public/storage
+/storage/logs
+/.idea
+/.htaccess

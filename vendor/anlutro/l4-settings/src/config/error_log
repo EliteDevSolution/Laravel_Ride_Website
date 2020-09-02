@@ -1,0 +1,8 @@
+[08-Nov-2019 13:29:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/config/config.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/config/config.php on line 9
+[11-Nov-2019 06:29:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function storage_path() in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/config/config.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/config/config.php on line 9
