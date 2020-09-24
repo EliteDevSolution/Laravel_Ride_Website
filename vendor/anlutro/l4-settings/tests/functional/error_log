@@ -1,5 +1,0 @@
-[16-Nov-2019 05:04:40 UTC] PHP Fatal error:  Class 'AbstractFunctionalTest' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/tests/functional/DatabaseTest.php on line 3
-[16-Nov-2019 10:19:23 UTC] PHP Fatal error:  Class 'AbstractFunctionalTest' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/tests/functional/JsonTest.php on line 3
-[17-Nov-2019 04:11:39 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/tests/functional/AbstractFunctionalTest.php on line 6
-[18-Nov-2019 08:51:14 UTC] PHP Fatal error:  Class 'AbstractFunctionalTest' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/tests/functional/JsonTest.php on line 3
-[18-Nov-2019 09:00:34 UTC] PHP Fatal error:  Class 'AbstractFunctionalTest' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/tests/functional/MemoryTest.php on line 3

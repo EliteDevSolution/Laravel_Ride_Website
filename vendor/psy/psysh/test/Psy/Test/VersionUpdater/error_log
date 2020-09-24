@@ -1,1 +1,0 @@
-[31-Oct-2019 01:59:36 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/VersionUpdater/GitHubCheckerTest.php on line 16

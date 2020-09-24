@@ -1,5 +1,0 @@
-[04-Nov-2019 00:26:24 UTC] PHP Fatal error:  Class 'Faker\Provider\Internet' not found in /home/ateaqsza/public_html/vendor/fzaninotto/faker/src/Faker/Provider/ar_SA/Internet.php on line 5
-[04-Nov-2019 00:27:54 UTC] PHP Fatal error:  Class 'Faker\Provider\Person' not found in /home/ateaqsza/public_html/vendor/fzaninotto/faker/src/Faker/Provider/ar_SA/Person.php on line 5
-[04-Nov-2019 01:32:28 UTC] PHP Fatal error:  Class 'Faker\Provider\Text' not found in /home/ateaqsza/public_html/vendor/fzaninotto/faker/src/Faker/Provider/ar_SA/Text.php on line 5
-[04-Nov-2019 07:40:55 UTC] PHP Fatal error:  Class 'Faker\Provider\Company' not found in /home/ateaqsza/public_html/vendor/fzaninotto/faker/src/Faker/Provider/ar_SA/Company.php on line 5
-[05-Nov-2019 19:42:50 UTC] PHP Fatal error:  Class 'Faker\Provider\Address' not found in /home/ateaqsza/public_html/vendor/fzaninotto/faker/src/Faker/Provider/ar_SA/Address.php on line 5

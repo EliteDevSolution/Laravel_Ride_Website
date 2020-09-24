@@ -1,2 +1,0 @@
-[27-Oct-2019 13:52:44 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/migrations/2015_08_25_172600_create_settings_table.php on line 8
-[13-Nov-2019 10:53:46 UTC] PHP Fatal error:  Class 'Illuminate\Database\Migrations\Migration' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/migrations/2015_08_25_172600_create_settings_table.php on line 8

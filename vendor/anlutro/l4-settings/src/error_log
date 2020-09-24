@@ -1,6 +1,0 @@
-[02-Oct-2019 18:23:54 UTC] PHP Fatal error:  Class 'Illuminate\Support\Facades\Facade' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/Facade.php on line 12
-[02-Oct-2019 18:24:17 UTC] PHP Fatal error:  Class 'Illuminate\Support\ServiceProvider' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/ServiceProvider.php on line 14
-[02-Oct-2019 18:24:28 UTC] PHP Fatal error:  Class 'Illuminate\Support\Manager' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/SettingsManager.php on line 15
-[02-Oct-2019 18:24:39 UTC] PHP Fatal error:  Class 'anlutro\LaravelSettings\SettingStore' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/MemorySettingStore.php on line 12
-[02-Oct-2019 18:24:51 UTC] PHP Fatal error:  Class 'anlutro\LaravelSettings\SettingStore' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/DatabaseSettingStore.php on line 14
-[02-Oct-2019 18:27:37 UTC] PHP Fatal error:  Class 'anlutro\LaravelSettings\SettingStore' not found in /home/ateaqsza/public_html/vendor/anlutro/l4-settings/src/JsonSettingStore.php on line 14

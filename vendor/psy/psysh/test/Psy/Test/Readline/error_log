@@ -1,4 +1,0 @@
-[23-Oct-2019 05:43:13 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/Readline/HoaConsoleTest.php on line 16
-[23-Oct-2019 05:43:14 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/Readline/LibeditTest.php on line 16
-[23-Oct-2019 15:58:50 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/Readline/GNUReadlineTest.php on line 16
-[25-Oct-2019 07:51:29 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/Readline/TransientTest.php on line 16

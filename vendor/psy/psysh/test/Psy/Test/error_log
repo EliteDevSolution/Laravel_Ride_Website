@@ -1,5 +1,0 @@
-[30-Oct-2019 16:11:11 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/CodeCleanerTest.php on line 16
-[30-Oct-2019 22:17:52 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/ConsoleColorFactoryTest.php on line 17
-[30-Oct-2019 22:18:09 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/ShellTest.php on line 21
-[30-Oct-2019 22:18:27 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/ConfigurationTest.php on line 21
-[30-Oct-2019 22:18:51 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/AutoloaderTest.php on line 16

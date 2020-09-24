@@ -1,2 +1,0 @@
-[01-Nov-2019 01:54:42 UTC] PHP Fatal error:  Class 'Hamcrest\FeatureMatcher' not found in /home/ateaqsza/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsTraversableWithSize.php on line 14
-[01-Nov-2019 01:59:25 UTC] PHP Fatal error:  Class 'Hamcrest\BaseMatcher' not found in /home/ateaqsza/public_html/vendor/hamcrest/hamcrest-php/hamcrest/Hamcrest/Collection/IsEmptyTraversable.php on line 13

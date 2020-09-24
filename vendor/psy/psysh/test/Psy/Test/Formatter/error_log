@@ -1,3 +1,0 @@
-[02-Nov-2019 02:57:46 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/Formatter/CodeFormatterTest.php on line 16
-[02-Nov-2019 02:58:50 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/Formatter/DocblockFormatterTest.php on line 16
-[02-Nov-2019 03:07:06 UTC] PHP Fatal error:  Class 'PHPUnit_Framework_TestCase' not found in /home/ateaqsza/public_html/vendor/psy/psysh/test/Psy/Test/Formatter/SignatureFormatterTest.php on line 17
