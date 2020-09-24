@@ -1,0 +1,13 @@
+[2020-09-23 20:02:37] production.ERROR: Symfony\Component\Console\Exception\RuntimeException: The "--columns" option does not exist. in D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Input\ArgvInput.php:219
+Stack trace:
+#0 D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Input\ArgvInput.php(153): Symfony\Component\Console\Input\ArgvInput->addLongOption('columns', 'uri,name,action...')
+#1 D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Input\ArgvInput.php(84): Symfony\Component\Console\Input\ArgvInput->parseLongOption('--columns=uri,n...')
+#2 D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Input\Input.php(62): Symfony\Component\Console\Input\ArgvInput->parse()
+#3 D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Command\Command.php(219): Symfony\Component\Console\Input\Input->bind(Object(Symfony\Component\Console\Input\InputDefinition))
+#4 D:\Laravel\ride\Laravel_Ride_Website\vendor\laravel\framework\src\Illuminate\Console\Command.php(155): Symfony\Component\Console\Command\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#5 D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Application.php(817): Illuminate\Console\Command->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#6 D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Application.php(185): Symfony\Component\Console\Application->doRunCommand(Object(Illuminate\Foundation\Console\RouteListCommand), Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#7 D:\Laravel\ride\Laravel_Ride_Website\vendor\symfony\console\Application.php(116): Symfony\Component\Console\Application->doRun(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#8 D:\Laravel\ride\Laravel_Ride_Website\vendor\laravel\framework\src\Illuminate\Foundation\Console\Kernel.php(121): Symfony\Component\Console\Application->run(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#9 D:\Laravel\ride\Laravel_Ride_Website\artisan(35): Illuminate\Foundation\Console\Kernel->handle(Object(Symfony\Component\Console\Input\ArgvInput), Object(Symfony\Component\Console\Output\ConsoleOutput))
+#10 {main}  
